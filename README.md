@@ -11,13 +11,13 @@ editing now... to become full stack...
 
 ## How to Run
 **Frontend**
-```
+```bash
 cd frontend
 npm run serve
 ```
 
 **Backend**
-```
+```bash
 cd backend
 python app.py
 ```
