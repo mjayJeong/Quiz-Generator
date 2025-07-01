@@ -1,7 +1,7 @@
 # Quiz Generating Web Application based on OpenAI
 
 
-editing now... to become full stack...
+editing now... 
 
 
 - Frontend : Figma, Vue.js
