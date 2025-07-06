@@ -1,6 +1,7 @@
 # Quiz Generating Web Application based on OpenAI
 
 
+Quiz generated
 editing now... 
 
 
