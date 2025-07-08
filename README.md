@@ -4,12 +4,13 @@
 Quiz generated
 editing now... 
 
-## Functionality
-- Register / Login
-
 - Frontend : Figma, Vue.js
 - Backend : Flask(python)
 - LLM : OpenAI
+
+## Functionality
+- Register / Login
+
 
 
 ## How to Run
