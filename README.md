@@ -4,6 +4,8 @@
 Quiz generated
 editing now... 
 
+## Functionality
+- Register / Login
 
 - Frontend : Figma, Vue.js
 - Backend : Flask(python)
