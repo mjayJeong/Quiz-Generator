@@ -10,6 +10,7 @@ editing now...
 
 ## Functionality
 - Register / Login
+- My list
 
 
 
