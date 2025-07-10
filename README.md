@@ -11,6 +11,7 @@ editing now...
 ## Functionality
 - Register / Login
 - My list
+- Quiz generate
 
 
 
