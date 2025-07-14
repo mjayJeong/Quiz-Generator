@@ -1,9 +1,9 @@
 <template>
     <div class="signup">
-        <h2>Sign up</h2>
-        <input v-model="email" type="email" placeholder="email" />
-        <input v-model="password" type="password" placeholder="password" />
-        <button @click="signup">Sign up</button>
+        <h2>로그인</h2>
+        <input v-model="email" type="email" placeholder="아이디(이메일)" />
+        <input v-model="password" type="password" placeholder="비밀번호" />
+        <button @click="signup">로그인</button>
 
         <p v-if="message">{{ message }}</p>
     </div>
@@ -43,17 +43,21 @@ export default {
     display: flex;
     flex-direction: column;
 }
+h2 {
+    margin-bottom: 50px;
+}
 input {
-    margin-bottom: 10px;
-    padding: 10px;
-    font-size: 1rem;
+    margin-bottom: 20px;
+    padding: 15px;
 }
 button {
-    padding: 10px;
-    background: #4caf50;
+    padding: 15px;
+    margin-top: 20px;
+    background: black;
     color: white;
     font-weight: bold;
     border: none;
+    border-radius: 40px;
     cursor: pointer;
 }
 </style>

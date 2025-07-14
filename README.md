@@ -13,6 +13,7 @@ editing now...
 - My list
 - Quiz generate
 - Quiz Save
+- Logout
 
 
 
